@@ -1,0 +1,13 @@
+Used resources
+
+1. https://www.openstreetmap.org/relation/175905#map=10/40.6971/-73.9796
+2. https://mapzen.com/data/metro-extracts/your-extracts/b0778f38d0cd
+3. https://wiki.openstreetmap.org/wiki/Main_Page
+4. https://docs.python.org/2/library/xml.etree.elementtree.html
+5. https://docs.python.org/2/library/re.html
+6. https://docs.python.org/2/library/collections.html
+7. https://docs.python.org/2/library/codecs.html
+8. http://docs.python-cerberus.org/en/stable/
+9. https://pypi.python.org/pypi/schema
+10. https://docs.python.org/2/library/sqlite3.html
+11. https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=map+api&*

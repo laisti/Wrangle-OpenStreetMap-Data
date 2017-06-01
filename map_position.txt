@@ -1,0 +1,8 @@
+Map Area
+
+New York City, NY, United States
+
+OpenStreetMap: https://www.openstreetmap.org/relation/175905#map=10/40.6971/-73.9796
+MapZen: https://mapzen.com/data/metro-extracts/your-extracts/b0778f38d0cd
+
+I chose to download data of NYC, NY, USA. This city is full of different places: museums, restaurants, cafes, art studios, parks and so on.I think it will be interesting to investigate this data.
